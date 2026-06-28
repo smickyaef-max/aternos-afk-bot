@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "accountable-smp.aternos.me",
-    "port": 18542,
+    "ip": "navodyasmp.aternos.me",
+    "port": 30637,
     "version": "1.20.1",
     "try-creative": false
   },
